@@ -13,6 +13,8 @@ while row_index < src[element_index].count do
     row_index += 1 
   end
 end
+new_array
+end
 
 
 def find_greater_pair
