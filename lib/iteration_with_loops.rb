@@ -9,9 +9,8 @@ while row_index < src.count do
   while element_index < src[row_index].count do
     new_array << src[row_index][element_index]
     element_index += 1
-  end
   row_index += 1 
-end
+  end
 end
 
 
